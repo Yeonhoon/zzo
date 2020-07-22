@@ -1,3 +1,10 @@
+[ko]
+  title = "Hugo Zzo Theme"
+  languageName = "한국어"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/ko"
+
 [en]
   title = "Hugo Zzo Theme"
   languageName = "English"
@@ -5,9 +12,3 @@
   languagedir = "ltr"
   contentdir = "content/en"
 
-[ko]
-  title = "Hugo Zzo Theme"
-  languageName = "한국어"
-  weight = 2
-  languagedir = "ltr"
-  contentdir = "content/ko"

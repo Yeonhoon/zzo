@@ -7,16 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>R on Hugo Zzo Theme</title>
-    <link>/smokeflame.netlify.app/en/categories/r/</link>
+    <link>/en/categories/r/</link>
     <description>Recent content in R on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>aidenjang94@gmail.com (Yeonhoon)</managingEditor>
+    <webMaster>aidenjang94@gmail.com (Yeonhoon)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-        <atom:link href="/smokeflame.netlify.app/en/categories/r/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Hello R Markdown</title>
-        <link>/smokeflame.netlify.app/en/posts/2015-07-23-r-rmarkdown/</link>
+        <link>/en/posts/2015-07-23-r-rmarkdown/</link>
         <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>aidenjang94@gmail.com (Yeonhoon)</author>
         <atom:modified>Thu, 23 Jul 2015 21:13:14 -0500</atom:modified>
-        <guid>/smokeflame.netlify.app/en/posts/2015-07-23-r-rmarkdown/</guid>
+        <guid>/en/posts/2015-07-23-r-rmarkdown/</guid>
         <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>

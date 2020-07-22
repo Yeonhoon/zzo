@@ -1,5 +1,5 @@
 baseURL = "https://smokeflame.netlify.app"
-title = "Hugo Zzo Theme"
+title = "Yeon-Hoon"
 theme = "hugo-theme-zzo"
 
 defaultContentLanguage = "en"
@@ -8,7 +8,7 @@ hasCJKLanguage = true
 
 summaryLength = 70
 buildFuture = true
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true

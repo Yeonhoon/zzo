@@ -42,9 +42,9 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Yeonhoon"
+email = "aidenjang94@gmail.com"
+whoami = "Businessman"
 bioImageUrl = ""
 useGravatar = false
 location = "Seoul, Korea"
