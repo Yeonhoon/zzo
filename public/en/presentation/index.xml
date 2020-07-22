@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Hugo Zzo Theme</title>
-    <link>/en/presentation/</link>
+    <link>/smokeflame.netlify.app/en/presentation/</link>
     <description>Recent content in Presentations on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="/en/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/smokeflame.netlify.app/en/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,20 @@
       
       <item>
         <title>Fourth</title>
-        <link>/en/presentation/dir/fourth/</link>
+        <link>/smokeflame.netlify.app/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>aidenjang94@gmail.com (Yeonhoon)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>/en/presentation/dir/fourth/</guid>
+        <guid>/smokeflame.netlify.app/en/presentation/dir/fourth/</guid>
         <description></description>
         
+<<<<<<< HEAD
         <dc:creator>Yeonhoon</dc:creator>
         <media:content url="/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="/smokeflame.netlify.appimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
         
         
         
@@ -54,15 +59,20 @@
       
       <item>
         <title>Third</title>
-        <link>/en/presentation/third/</link>
+        <link>/smokeflame.netlify.app/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>aidenjang94@gmail.com (Yeonhoon)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>/en/presentation/third/</guid>
+        <guid>/smokeflame.netlify.app/en/presentation/third/</guid>
         <description></description>
         
+<<<<<<< HEAD
         <dc:creator>Yeonhoon</dc:creator>
         <media:content url="/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="/smokeflame.netlify.appimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
         
         
         
@@ -84,15 +94,20 @@
       
       <item>
         <title>Second</title>
-        <link>/en/presentation/second/</link>
+        <link>/smokeflame.netlify.app/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>aidenjang94@gmail.com (Yeonhoon)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>/en/presentation/second/</guid>
+        <guid>/smokeflame.netlify.app/en/presentation/second/</guid>
         <description></description>
         
+<<<<<<< HEAD
         <dc:creator>Yeonhoon</dc:creator>
         <media:content url="/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="/smokeflame.netlify.appimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
         
         
         
@@ -114,15 +129,20 @@
       
       <item>
         <title>First</title>
-        <link>/en/presentation/first/</link>
+        <link>/smokeflame.netlify.app/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>aidenjang94@gmail.com (Yeonhoon)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>/en/presentation/first/</guid>
+        <guid>/smokeflame.netlify.app/en/presentation/first/</guid>
         <description></description>
         
+<<<<<<< HEAD
         <dc:creator>Yeonhoon</dc:creator>
         <media:content url="/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+=======
+        <dc:creator>zzossig</dc:creator>
+        <media:content url="/smokeflame.netlify.appimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
         
         
         

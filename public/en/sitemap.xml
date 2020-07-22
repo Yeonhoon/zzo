@@ -3,31 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>/smokeflame.netlify.app/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>/smokeflame.netlify.app/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/en/</loc>
     <lastmod>2020-07-22T15:26:08+09:00</lastmod>
+=======
+    <loc>/smokeflame.netlify.app/en/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/"
+                href="/smokeflame.netlify.app/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/smokeflame.netlify.app/en/"
                 />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/en/ko/posts/2020-07-22-first/</loc>
     <lastmod>2020-07-22T15:26:08+09:00</lastmod>
   </url>
@@ -39,15 +45,33 @@
   
   <url>
     <loc>/en/publication/article/</loc>
+=======
+    <loc>/smokeflame.netlify.app/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/smokeflame.netlify.app/en/publication/book/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/publication/misc/</loc>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
     <loc>/en/publication/book/</loc>
+=======
+    <loc>/smokeflame.netlify.app/en/publication/</loc>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
@@ -69,105 +93,183 @@
   
   <url>
     <loc>/en/gallery/cartoon/</loc>
+=======
+    <loc>/smokeflame.netlify.app/en/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/gallery/cartoon/"
+                href="/smokeflame.netlify.app/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="/smokeflame.netlify.app/en/gallery/cartoon/"
+                />
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/gallery/</loc>
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/smokeflame.netlify.app/ko/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/smokeflame.netlify.app/en/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/gallery/photo/</loc>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
+    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+<<<<<<< HEAD
+                href="/ko/gallery/cartoon/"
+=======
+                href="/smokeflame.netlify.app/ko/gallery/photo/"
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+<<<<<<< HEAD
                 href="/en/gallery/cartoon/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/gallery/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/"
+=======
+                href="/smokeflame.netlify.app/en/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>/en/gallery/photo/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/ko/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/gallery/photo/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/presentation/dir/fourth/</loc>
+    <loc>/smokeflame.netlify.app/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/</loc>
+    <loc>/smokeflame.netlify.app/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/third/</loc>
+    <loc>/smokeflame.netlify.app/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/second/</loc>
+    <loc>/smokeflame.netlify.app/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/presentation/first/</loc>
+    <loc>/smokeflame.netlify.app/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
   </url>
   
   <url>
-    <loc>/en/archive/</loc>
+    <loc>/smokeflame.netlify.app/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/archive/"
+                href="/smokeflame.netlify.app/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archive/"
+                href="/smokeflame.netlify.app/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>/en/about/</loc>
+    <loc>/smokeflame.netlify.app/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/about/"
+                href="/smokeflame.netlify.app/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="/smokeflame.netlify.app/en/about/"
                 />
   </url>
   
   <url>
+    <loc>/smokeflame.netlify.app/en/publication/article/article_any_folder_name_1/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/publication/book/book_any_folder_name_1/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/publication/misc/misc_any_folder_name_1/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/smokeflame.netlify.app/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/smokeflame.netlify.app/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/posts/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/smokeflame.netlify.app/en/posts/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/smokeflame.netlify.app/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/smokeflame.netlify.app/en/posts/"
+                />
+  </url>
+  
+  <url>
+<<<<<<< HEAD
     <loc>/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -199,15 +301,19 @@
   
   <url>
     <loc>/en/posts/2015-07-23-r-rmarkdown/</loc>
+=======
+    <loc>/smokeflame.netlify.app/en/categories/r/</loc>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/plot/</loc>
+    <loc>/smokeflame.netlify.app/en/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/en/posts/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
@@ -224,20 +330,43 @@
   
   <url>
     <loc>/en/categories/r/</loc>
+=======
+    <loc>/smokeflame.netlify.app/en/tags/regression/</loc>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/en/tags/r-markdown/</loc>
+    <loc>/smokeflame.netlify.app/en/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/smokeflame.netlify.app/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/smokeflame.netlify.app/en/tags/"
+                />
   </url>
   
   <url>
-    <loc>/en/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/smokeflame.netlify.app/en/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/smokeflame.netlify.app/ko/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/smokeflame.netlify.app/en/tags/index/"
+                />
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/en/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <xhtml:link
@@ -254,15 +383,18 @@
   
   <url>
     <loc>/en/tags/index/</loc>
+=======
+    <loc>/smokeflame.netlify.app/en/series/</loc>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/tags/index/"
+                href="/smokeflame.netlify.app/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/index/"
+                href="/smokeflame.netlify.app/en/series/"
                 />
   </url>
   

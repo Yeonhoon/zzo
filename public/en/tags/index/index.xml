@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Hugo Zzo Theme</title>
-    <link>/en/tags/index/</link>
+    <link>/smokeflame.netlify.app/en/tags/index/</link>
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>aidenjang94@gmail.com (Yeonhoon)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/smokeflame.netlify.app/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,17 @@
       
       <item>
         <title>Posts</title>
+<<<<<<< HEAD
         <link>/en/posts/</link>
         <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
         <author>aidenjang94@gmail.com (Yeonhoon)</author>
+=======
+        <link>/smokeflame.netlify.app/en/posts/</link>
+        <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+>>>>>>> 2c9a6ddcb69e5af0061fcefcf3d137efa6b49c5a
         
-        <guid>/en/posts/</guid>
+        <guid>/smokeflame.netlify.app/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
